@@ -1,8 +1,9 @@
-Former Android app developer, personally obsessed with Android OS reverse engineering and Kotlin Multiplatform. 
+Former Android app developer, personally obsessed with Android OS reverse engineering, device sensors and Kotlin Multiplatform. 
 Currently working on LLM fine-tuning.
 
-- Twitter: https://x.com/soleil_colza_
-- Company website: https://www.arkor.ai
+- [Twitter](https://x.com/soleil_colza_)
+- [Company website](https://www.arkor.ai)
+
 
 
 
