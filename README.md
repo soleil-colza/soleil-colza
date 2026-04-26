@@ -1,4 +1,10 @@
-## Hi there 👋
+Former Android app developer, personally obsessed with Android OS reverse engineering and Kotlin Multiplatform. 
+Currently working on LLM fine-tuning.
+
+- Twitter: https://x.com/soleil_colza_
+- Company website: https://www.arkor.ai
+
+
 
 <!--
 **soleil-colza/soleil-colza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
